@@ -6,7 +6,7 @@ permalink: /talks/2025-05-01-improved-neonatal-heart-rate-measurement
 venue: "UW Undergraduate Research Symposium"
 date: 2025-05-01
 location: "Seattle, WA"
-poster: "http://academicpages.github.io/files/nest-symposium.pdf"
+poster: "https://milesstanley.github.io/files/nest-symposium.pdf"
 ---
 
 Poster presentation on evaluating signal denoising techniques to improve neonatal heart rate measurement during ambulance transport.

@@ -5,7 +5,7 @@ permalink: /publication/2025-01-01-investigating-vaccine-buyers-remorse
 excerpt: 'This paper investigates the under-explored phenomenon of “vaccine buyer’s remorse” by using LLMs to examine how expressions of regret manifest on the social web.'
 date: 2025-01-01
 venue: 'AAAI Conference on Artificial Intelligence (AAAI 2026)'
-paperurl: 'http://academicpages.github.io/files/486_Investigating_Vaccine_Buye.pdf'
+paperurl: 'https://milesstanley.github.io/486_Investigating_Vaccine_Buye.pdf'
 citation: 'Stanley, M., Datta, S., Kumar, A., & KhudaBukhsh, A. R. (2025). Investigating Vaccine Buyer’s Remorse. Submitted to the AAAI Conference on Artificial Intelligence (AAAI 2026).'
 ---
 

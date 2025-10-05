@@ -6,7 +6,7 @@ permalink: /talks/2025-07-01-investigating-vaccine-buyers-remorse
 venue: "RIT Undergraduate Research Symposium"
 date: 2025-07-01
 location: "Rochester, NY"
-slides: "http://academicpages.github.io/files/rit-slides.pdf"
+slides: "https://milesstanley.github.io/files/rit-slides.pdf"
 ---
 
 Oral presentation on the project investigating vaccine buyer’s remorse in YouTube comments, including the multi-stage pipeline, benchmark dataset, and LLM evaluations.
