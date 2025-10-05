@@ -8,6 +8,4 @@ date: 2025-05-16
 location: "Seattle, WA"
 ---
 
-[Download poster here](https://milesstanley.github.io/files/nest-symposium.pdf)
-
-Poster presentation on evaluating signal denoising techniques to improve neonatal heart rate measurement during ambulance transport.
+Poster presentation on evaluating signal denoising techniques to improve neonatal heart rate measurement during ambulance transport. [Download poster here](https://milesstanley.github.io/files/nest-symposium.jpg)

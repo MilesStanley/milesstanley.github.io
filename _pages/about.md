@@ -14,6 +14,7 @@ Research Interests
 My work spans several areas of AI research:
 - **Robust and Fair AI**: Developing methods to improve model reliability and reduce bias
 - **Explainable AI**: Creating transparent AI systems whose decisions can be understood and trusted
+- **Interdisciplinary AI**: Applying AI techniques to solve problems in healthcare and accessibility
 - **Computational Social Science**: Using AI to analyze social phenomena and public discourse
 - **Natural Language Processing**: Building language models that better understand nuanced human communication
 
