@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Miles Stanley"
 title_separator          : "-"
 name                     : &name "Miles Stanley"
-description              : &description "Computer Science Student & AI Researcher"
+description              : &description "Computer Science Student"
 url                      : https://milesstanley.github.io
 baseurl                  : ""
 repository               : "milesstanley/milesstanley.github.io"
@@ -21,7 +21,7 @@ repository               : "milesstanley/milesstanley.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.jpeg"
   name             : "Miles Stanley"
   pronouns         : "he/him"  
   bio              : "Computer Science Student at University of Washington | AI Researcher"
