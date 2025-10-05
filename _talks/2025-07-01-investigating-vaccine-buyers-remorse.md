@@ -4,7 +4,7 @@ collection: talks
 type: "Oral Presentation"
 permalink: /talks/2025-07-01-investigating-vaccine-buyers-remorse
 venue: "RIT Undergraduate Research Symposium"
-date: 2025-07-01
+date: 2025-07-31
 location: "Rochester, NY"
 slides: "https://milesstanley.github.io/files/rit-slides.pdf"
 ---
