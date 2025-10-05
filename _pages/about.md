@@ -11,7 +11,7 @@ I'm a Computer Science student at the University of Washington (GPA: 3.96) with 
 
 Research Interests
 ======
-My work spans several areas of AI research:
+My interests span several areas of AI research:
 - **Robust and Fair AI**: Developing methods to improve model reliability and reduce bias
 - **Explainable AI**: Creating transparent AI systems whose decisions can be understood and trusted
 - **Interdisciplinary AI**: Applying AI techniques to solve problems in healthcare and accessibility
