@@ -21,7 +21,7 @@ Research Interests
 * Computational Social Science
 * Natural Language Processing
 
-Publications & Presentations
+Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
