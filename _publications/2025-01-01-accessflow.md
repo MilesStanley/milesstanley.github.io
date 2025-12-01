@@ -1,12 +1,10 @@
 ---
 title: "Investigating Vaccine Buyer’s Remorse"
 collection: publications
-permalink: /publication/2025-01-01-investigating-vaccine-buyers-remorse
-excerpt: 'This paper investigates the under-explored phenomenon of “vaccine buyer’s remorse” by using LLMs to examine how expressions of regret manifest on the social web.'
+permalink: /publication/2025-01-01-accessflow
 date: 2025-01-01
-venue: 'Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)'
-paperurl: 'https://milesstanley.github.io/files/Investigating_Vaccine_Buyers_Remorse.pdf'
-citation: 'Stanley, M., Datta, S., Kumar, A., & KhudaBukhsh, A. R. (2025). Investigating Vaccine Buyer’s Remorse. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2026).'
+excerpt: 'Manuscript in preparation.'
+citation: 'B. L. Wimer, M. Stanley, H. Ack, S. Haley, R. A. Metoyer, J. Mankoff. Access Flow: From Diagram Images to Structured Access.'
 ---
 
 ## Abstract
